@@ -234,6 +234,11 @@ The larger the state space, the longer it take to complete the search.
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Time Complexity Plot
 #### Plot a graph for various value of N and time(seconds)
