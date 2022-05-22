@@ -198,20 +198,6 @@ plt.show()
 
 ## OUTPUT:
 
-![O1](https://user-images.githubusercontent.com/77089743/169696469-12ebc0e0-e255-48ce-ba6d-df341f199ecc.PNG)
----
-
-![O2](https://user-images.githubusercontent.com/77089743/169696477-4437aeb7-891a-41bc-97cf-424e7141bce7.PNG)
----
-
-![O3](https://user-images.githubusercontent.com/77089743/169696479-09d514db-d3c3-4934-9fe7-78659c34506d.PNG)
----
-
-![O4](https://user-images.githubusercontent.com/77089743/169696483-8eb346a8-7af6-4032-a09f-7879294d47de.PNG)
----
-
-![O5](https://user-images.githubusercontent.com/77089743/169696487-bcedffd6-fc84-4204-a776-b9580ff0fee0.PNG)
----
 
 The larger the state space, the longer it take to complete the search.
 
